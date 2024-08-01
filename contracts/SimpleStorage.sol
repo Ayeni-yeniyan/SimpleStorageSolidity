@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: MIT
-pragma solidity 0.8.24;//sol version
+pragma solidity 0.8.26;//sol version
 
 contract SimpleStorage {
     uint256  favouriteNumber;
